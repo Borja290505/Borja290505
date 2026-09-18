@@ -1,39 +1,49 @@
-# ¡Hola! Soy Borja 👋
+# ¡Hola! Soy [Tu Nombre Completo] 👋
 
-### 🎯 Perfil Profesional
-Desarrollador enfocado en **[Tu Especialidad, ej: Frontend / Backend / Fullstack / Cloud]** especializado en construir sistemas escalables, eficientes y centrados en la experiencia del usuario. Comprometido con las buenas prácticas de arquitectura, código limpio y metodologías ágiles.
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:tu-correo@email.com" target="_blank">
+    <img src="https://shields.io" alt="Email">
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="Proyectos">
+  </a>
+</p>
 
-- 🔭 Actualmente trabajando en: **[Proyecto actual o área de investigación]**
-- 🌱 Perfeccionando habilidades en: **[Tecnología que estés aprendiendo ahora]**
-- 💬 Pregúntame sobre: **[Tus temas fuertes, ej: React, APIs REST, Docker]**
+### 🎯 Perfil Profesional (DAM)
+Desarrollador de **Aplicaciones Multiplataforma** enfocado en el diseño, desarrollo e implementación de soluciones software robustas tanto para entornos de escritorio como para dispositivos móviles. Especializado en programación orientada a objetos, gestión de bases de datos y optimización de procesos de negocio (ERP/CRM).
+
+- 🔭 **Enfoque principal:** Desarrollo nativo/híbrido móvil y aplicaciones de escritorio orientadas a rendimiento.
+- 🌱 **Perfeccionando habilidades en:** [Tecnología actual, ej: Kotlin Multiplatform, Flutter o Spring Boot]
+- ⚙️ **Metodologías:** Patrones de diseño (MVC/MVVM), POO y metodologías ágiles (Scrum).
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
-| Categoría | Tecnologías |
+| Entorno / Categoría | Tecnologías |
 | :--- | :--- |
-| **Frontend** | ![React](https://shields.io) ![TypeScript](https://shields.io) ![HTML5](https://shields.io) ![Tailwind](https://shields.io) |
-| **Backend / DB** | ![NodeJS](https://shields.io) ![Python](https://shields.io) ![PostgreSQL](https://shields.io) |
-| **Herramientas & Cloud** | ![Git](https://shields.io) ![Docker](https://shields.io) ![AWS](https://shields.io) |
+| **Lenguajes Clave** | ![Java](https://shields.io) ![C#](https://shields.io) ![Kotlin](https://shields.io) ![Python](https://shields.io) |
+| **Móvil / Multiplataforma** | ![Android](https://shields.io) ![Flutter](https://shields.io) ![.NET](https://shields.io) |
+| **Bases de Datos & ERP** | ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![SQLite](https://shields.io) ![Odoo](https://shields.io) |
+| **Herramientas & Entornos** | ![Git](https://shields.io) ![Android Studio](https://shields.io) ![VS Code](https://shields.io) |
 
 ---
 
-### 📊 Desempeño y Métricas en GitHub
+### 📊 Actividad en GitHub
 
 <p align="center">
   <img src="https://vercel.app" alt="Estadísticas de GitHub" height="180" />
   <img src="https://vercel.app" alt="Lenguajes más usados" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://demolab.com" alt="Racha en GitHub" />
-</p>
-
 ---
 
-### 📌 Proyectos Destacados
-*No olvides anclar (pin) tus repositorios estrella directamente en la pestaña general de tu perfil para complementar este menú.*
+### 📌 Proyectos Multiplataforma Destacados
+*(Idealmente, vincula aquí tu proyecto de fin de ciclo o las aplicaciones móviles más completas que hayas construido)*
 
-1. 🚀 **[Nombre del Proyecto 1](Enlace a tu repo)** - Breve descripción técnica de una línea enfatizando el impacto o tecnologías usadas.
-2. 🛠️ **[Nombre del Proyecto 2](Enlace a tu repo)** - Breve descripción técnica de una línea enfatizando el impacto o tecnologías usadas.
+1. 📱 **[Nombre del Proyecto Móvil](Enlace a tu repo)** - Aplicación móvil nativa para Android desarrollada en Kotlin/Flutter. Implementa arquitectura MVVM, persistencia de datos local con SQLite/Room y consumo de APIs REST.
+2. 💻 **[Sistema de Gestión / Escritorio](Enlace a tu repo)** - Aplicación de escritorio desarrollada en JavaFX / .NET C# para la gestión interna de inventario conectada a una base de datos relacional.
+3. ⚙️ **[Módulo ERP / Desarrollo Python](Enlace a tu repo)** - Adaptación, desarrollo de módulos personalizados o implantación sobre sistemas ERP (como Odoo) utilizando Python.
