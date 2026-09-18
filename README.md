@@ -1,17 +1,5 @@
 # ¡Hola! Soy Borja 👋
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:tu-correo@email.com" target="_blank">
-    <img src="https://shields.io" alt="Email">
-  </a>
-  <a href="https://tudominio.com" target="_blank">
-    <img src="https://shields.io" alt="Portfolio">
-  </a>
-</p>
-
 ### 🎯 Perfil Profesional
 Desarrollador enfocado en **[Tu Especialidad, ej: Frontend / Backend / Fullstack / Cloud]** especializado en construir sistemas escalables, eficientes y centrados en la experiencia del usuario. Comprometido con las buenas prácticas de arquitectura, código limpio y metodologías ágiles.
 
