@@ -1,6 +1,9 @@
-# ¡Hola! Soy [Tu Nombre Completo] 👋
+# 🤖 [Tu Nombre Completo] | AI-Driven Software Engineer
 
-<p align="left">
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
   <a href="mailto:tu-correo@email.com" target="_blank">
     <img src="https://shields.io" alt="Email">
   </a>
@@ -9,38 +12,42 @@
   </a>
 </p>
 
-### 🎯 Perfil Profesional (DAM)
-Desarrollador de **Aplicaciones Multiplataforma** enfocado en el diseño, desarrollo e implementación de soluciones software robustas tanto para entornos de escritorio como para dispositivos móviles. Especializado en programación orientada a objetos, gestión de bases de datos y optimización de procesos de negocio (ERP/CRM).
+### 🌌 Perfil Profesional (DAM + AI)
+Desarrollador de **Aplicaciones Multiplataforma** especializado en la integración de modelos de lenguaje (LLMs), automatización inteligente y desarrollo asistido por IA. Enfocado en la creación de software nativo e híbrido que aprovecha capacidades cognitivas artificiales para resolver problemas complejos de rendimiento y experiencia de usuario.
 
-- 🔭 **Enfoque principal:** Desarrollo nativo/híbrido móvil y aplicaciones de escritorio orientadas a rendimiento.
-- 🌱 **Perfeccionando habilidades en:** [Tecnología actual, ej: Kotlin Multiplatform, Flutter o Spring Boot]
-- ⚙️ **Metodologías:** Patrones de diseño (MVC/MVVM), POO y metodologías ágiles (Scrum).
+- 🤖 **Especialidad:** Integración de APIs de IA (OpenAI, Anthropic, Ollama) en entornos de escritorio y móviles.
+- ⚡ **Desarrollo aumentado:** Uso avanzado de herramientas como Copilot, Claude Code y Cursor para optimizar el ciclo de desarrollo (SDLC).
+- 🔭 **Enfoque actual:** Agentes de IA autónomos integrados en arquitecturas móviles locales.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Core Stack & AI Tooling
 
-| Entorno / Categoría | Tecnologías |
+| Ecosistema | Tecnologías e Integraciones |
 | :--- | :--- |
-| **Lenguajes Clave** | ![Java](https://shields.io) ![C#](https://shields.io) ![Kotlin](https://shields.io) ![Python](https://shields.io) |
-| **Móvil / Multiplataforma** | ![Android](https://shields.io) ![Flutter](https://shields.io) ![.NET](https://shields.io) |
-| **Bases de Datos & ERP** | ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![SQLite](https://shields.io) ![Odoo](https://shields.io) |
-| **Herramientas & Entornos** | ![Git](https://shields.io) ![Android Studio](https://shields.io) ![VS Code](https://shields.io) |
+| **IA & LLM Integrations** | ![OpenAI](https://shields.io) ![Anthropic](https://shields.io) ![LangChain](https://shields.io) ![Ollama](https://shields.io) |
+| **AI Assistants (Productivity)**| ![GitHub Copilot](https://shields.io) ![Cursor](https://shields.io) ![Claude](https://shields.io) |
+| **Multiplatform & OOP** | ![Java](https://shields.io) ![Kotlin](https://shields.io) ![C# / .NET](https://shields.io) ![Python](https://shields.io) |
+| **Bases de Datos (Relacionales & Vectoriales)** | ![PostgreSQL](https://shields.io) ![SQLite](https://shields.io) ![ChromaDB](https://shields.io) |
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Métricas de Ingeniería y Actividad (AI Powered)
+
+*Widgets dinámicos sincronizados con mi actividad en tiempo real:*
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="180" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" height="180" />
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="175" />
+  <img src="https://vercel.app" alt="Lenguajes más usados" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://demolab.com" alt="Racha en GitHub" />
 </p>
 
 ---
 
-### 📌 Proyectos Multiplataforma Destacados
-*(Idealmente, vincula aquí tu proyecto de fin de ciclo o las aplicaciones móviles más completas que hayas construido)*
+### 🧠 Proyectos Destacados IA + Multiplataforma
 
-1. 📱 **[Nombre del Proyecto Móvil](Enlace a tu repo)** - Aplicación móvil nativa para Android desarrollada en Kotlin/Flutter. Implementa arquitectura MVVM, persistencia de datos local con SQLite/Room y consumo de APIs REST.
-2. 💻 **[Sistema de Gestión / Escritorio](Enlace a tu repo)** - Aplicación de escritorio desarrollada en JavaFX / .NET C# para la gestión interna de inventario conectada a una base de datos relacional.
-3. ⚙️ **[Módulo ERP / Desarrollo Python](Enlace a tu repo)** - Adaptación, desarrollo de módulos personalizados o implantación sobre sistemas ERP (como Odoo) utilizando Python.
+1. 📱 **[AI Multiplatform Agent](Enlace a tu repo)** - Aplicación móvil (Android/Kotlin) que consume embeddings locales y conecta con modelos LLM para la automatización de tareas en el dispositivo. Implementa arquitectura MVVM y base de datos vectorial local.
+2. 💻 **[Smart ERP Desktop Copilot](Enlace a tu repo)** - Software de escritorio (.NET C#) enfocado a la gestión empresarial clásica de DAM, pero potenciado con un asistente de IA capaz de generar consultas SQL inteligentes mediante procesamiento de lenguaje natural.
