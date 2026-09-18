@@ -1,16 +1,51 @@
-## Hi there 👋
+# ¡Hola! Soy Borja 👋
 
-<!--
-**Borja290505/Borja290505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:tu-correo@email.com" target="_blank">
+    <img src="https://shields.io" alt="Email">
+  </a>
+  <a href="https://tudominio.com" target="_blank">
+    <img src="https://shields.io" alt="Portfolio">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 🎯 Perfil Profesional
+Desarrollador enfocado en **[Tu Especialidad, ej: Frontend / Backend / Fullstack / Cloud]** especializado en construir sistemas escalables, eficientes y centrados en la experiencia del usuario. Comprometido con las buenas prácticas de arquitectura, código limpio y metodologías ágiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajando en: **[Proyecto actual o área de investigación]**
+- 🌱 Perfeccionando habilidades en: **[Tecnología que estés aprendiendo ahora]**
+- 💬 Pregúntame sobre: **[Tus temas fuertes, ej: React, APIs REST, Docker]**
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![React](https://shields.io) ![TypeScript](https://shields.io) ![HTML5](https://shields.io) ![Tailwind](https://shields.io) |
+| **Backend / DB** | ![NodeJS](https://shields.io) ![Python](https://shields.io) ![PostgreSQL](https://shields.io) |
+| **Herramientas & Cloud** | ![Git](https://shields.io) ![Docker](https://shields.io) ![AWS](https://shields.io) |
+
+---
+
+### 📊 Desempeño y Métricas en GitHub
+
+<p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="180" />
+  <img src="https://vercel.app" alt="Lenguajes más usados" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://demolab.com" alt="Racha en GitHub" />
+</p>
+
+---
+
+### 📌 Proyectos Destacados
+*No olvides anclar (pin) tus repositorios estrella directamente en la pestaña general de tu perfil para complementar este menú.*
+
+1. 🚀 **[Nombre del Proyecto 1](Enlace a tu repo)** - Breve descripción técnica de una línea enfatizando el impacto o tecnologías usadas.
+2. 🛠️ **[Nombre del Proyecto 2](Enlace a tu repo)** - Breve descripción técnica de una línea enfatizando el impacto o tecnologías usadas.
