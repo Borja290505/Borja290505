@@ -22,12 +22,12 @@ Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
 
 ### Lenguajes de Programación
 <p align="left">
-  <img src="https://skillicons.dev" alt="Lenguajes" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borja290505&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ### Desarrollo Móvil y Web
 <p align="left">
-  <img src="https://skillicons.dev" alt="Mobile y Web" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="Mobile y Web" />
 </p>
 
 ### Bases de Datos y Sistemas
