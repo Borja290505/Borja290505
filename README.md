@@ -14,18 +14,6 @@
 - 🌱 **Aprendiendo actualmente:** Profundizando en arquitecturas limpias y bases de datos avanzadas.
 - 💼 **Objetivo:** Seguir creciendo como desarrollador y aportar valor en proyectos de software reales.
 
----
-
-## 🛠️ Tecnologías y Herramientas
-
-Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
-
-### Lenguajes de Programación
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borja290505&layout=compact&langs_count=8&theme=algolia"/>
-</p>
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -35,7 +23,7 @@ Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
   </a>
 </p>
 
-### Lenguajes aprendidos
+## 🛠️ Tecnologías y Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,java,git,kotlin,nodejs,py,mysql" alt="Mobile y Web" />
 </p>
