@@ -32,7 +32,7 @@ Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
 
 ### Bases de Datos y Sistemas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql, odoo" alt="Sistemas y BD" />
+  <img src="https://skillicons.dev/icons?i=mysql,odoo" alt="Sistemas y BD" />
 </p>
 
 ### Herramientas y Entornos (IDEs)
