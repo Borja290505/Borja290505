@@ -1,37 +1,58 @@
-<!--horizontal divider (gradiente)-->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+# ¡Hola! Soy Borja 👋
 
-<!--h1 sin borde inferior-->
-
-<div id="user-content-toc">
-  <ul align="center">
-  </ul>
-</div>
-
-<!--Acerca de mí-->
 <p align="center">
-<a href="https://github.com/borja290505">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=borja290505&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borja290505&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
-<br>
+---
 
-<!--h1 sin borde inferior-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Know 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--iconos del stack tecnológico-->
+## 🚀 Sobre Mí
+
+¡Bienvenido a mi perfil! Actualmente estoy cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma (2º DAM)**. Me apasiona crear soluciones eficientes, aprender constantemente nuevas tecnologías y afrontar retos de programación.
+
+- 🎓 **Estudios:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+- 🌱 **Aprendiendo actualmente:** Profundizando en arquitecturas limpias y bases de datos avanzadas.
+- 💼 **Objetivo:** Seguir creciendo como desarrollador y aportar valor en proyectos de software reales.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
+
+### Lenguajes de Programación
+<p align="left">
+  <img src="https://skillicons.dev" alt="Lenguajes" />
+</p>
+
+### Desarrollo Móvil y Web
+<p align="left">
+  <img src="https://skillicons.dev" alt="Mobile y Web" />
+</p>
+
+### Bases de Datos y Sistemas
+<p align="left">
+  <img src="https://skillicons.dev" alt="Sistemas y BD" />
+</p>
+
+### Herramientas y Entornos (IDEs)
+<p align="left">
+  <img src="https://skillicons.dev" alt="Herramientas" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
 <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=cs,flutter,py,java,mysql,html,linux,github,git,vscode,idea&perline=14" />
+  <a href="https://github.com/borja290505">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=borja290505&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de Borja" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borja290505&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados" />
   </a>
 </p>
 
-<br>
+---
 
-<!--horizontal divider (gradiente)-->
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<p align="center">
+  <i>¡Gracias por visitar mi perfil! Si quieres colaborar en algún proyecto, no dudes en contactarme.</i>
+</p>
