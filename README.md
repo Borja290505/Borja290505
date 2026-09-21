@@ -24,13 +24,6 @@ Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borja290505&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
-### Lenguajes aprendidos
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,git,kotlin,nodejs,py,mysql" alt="Mobile y Web" />
-</p>
-
-
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -40,6 +33,11 @@ Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=borja290505&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de Borja" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borja290505&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados" />
   </a>
+</p>
+
+### Lenguajes aprendidos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,git,kotlin,nodejs,py,mysql" alt="Mobile y Web" />
 </p>
 
 ---
