@@ -1,7 +1,4 @@
-<h1 align="center">   ¡Hola! Soy Borja 👋</h1>
-
-<h2 align="center">🚀 Sobre Mí</h2>
-
+<h1 align="center">¡Hola! Soy Borja 👋</h1>
 <p align="center">
   ¡Bienvenido a mi perfil! Actualmente estoy cursando el segundo año de <b>Desarrollo de Aplicaciones Multiplataforma (2º DAM)</b>. Me apasiona crear soluciones eficientes, aprender constantemente nuevas tecnologías y afrontar retos de programación.
 </p>
