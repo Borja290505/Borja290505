@@ -1,7 +1,5 @@
 <h1 align="center">¡Hola! Soy Borja 👋</h1>
 
----
-
 <h2 align="center">🚀 Sobre Mí</h2>
 
 <p align="center">
