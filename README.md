@@ -13,11 +13,11 @@
 </p>
 
 <div align="center">
-  <ul style="display: inline-block; text-align: left;">
+  <ol style="display: inline-block; text-align: left;">
     <li>🎓 <b>Estudios:</b> Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).</li>
     <li>🌱 <b>Aprendiendo actualmente:</b> Profundizando en arquitecturas limpias y bases de datos avanzadas.</li>
     <li>💼 <b>Objetivo:</b> Seguir creciendo como desarrollador y aportar valor en proyectos de software reales.</li>
-  </ul>
+  </ol>
 </div>
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
