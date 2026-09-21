@@ -1,9 +1,5 @@
 <h1 align="center">¡Hola! Soy Borja 👋</h1>
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
 ---
 
 <h2 align="center">🚀 Sobre Mí</h2>
@@ -13,13 +9,12 @@
 </p>
 
 <div align="center">
-  <ol style="display: inline-block; text-align: left;">
-    <li>🎓 <b>Estudios:</b> Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).</li>
-    <li>🌱 <b>Aprendiendo actualmente:</b> Profundizando en arquitecturas limpias y bases de datos avanzadas.</li>
-    <li>💼 <b>Objetivo:</b> Seguir creciendo como desarrollador y aportar valor en proyectos de software reales.</li>
-  </ol>
+  <div style="display: inline-block; text-align: left;">
+    🎓 <b>Estudios:</b> Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).<br>
+    🌱 <b>Aprendiendo actualmente:</b> Profundizando en arquitecturas limpias y bases de datos avanzadas.<br>
+    💼 <b>Objetivo:</b> Seguir creciendo como desarrollador y aportar valor en proyectos de software reales.
+  </div>
 </div>
-
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
