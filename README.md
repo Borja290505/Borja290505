@@ -27,7 +27,7 @@ Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
 
 ### Desarrollo Móvil y Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="Mobile y Web" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm,java,git,kotlin,mysql,nodejs,py" alt="Mobile y Web" />
 </p>
 
 ### Bases de Datos y Sistemas
