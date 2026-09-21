@@ -25,20 +25,11 @@ Para facilitar la lectura, aquí tienes mi stack organizado por categorías:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borja290505&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-### Desarrollo Móvil y Web
+### Lenguajes aprendidos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,git,kotlin,nodejs,py" alt="Mobile y Web" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,git,kotlin,nodejs,py,mysql" alt="Mobile y Web" />
 </p>
 
-### Bases de Datos y Sistemas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,odoo" alt="Sistemas y BD" />
-</p>
-
-### Herramientas y Entornos (IDEs)
-<p align="left">
-  <img src="https://skillicons.dev" alt="Herramientas" />
-</p>
 
 ---
 
